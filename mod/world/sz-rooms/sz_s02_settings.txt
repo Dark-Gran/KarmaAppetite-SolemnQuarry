@@ -1,4 +1,4 @@
-Template: SX_SettingsTemplate_Inside
+Template: SZ_SettingsTemplate_Inside
 DangerType: None
 RandomItemDensity: 0
 RandomItemSpearChance: 0

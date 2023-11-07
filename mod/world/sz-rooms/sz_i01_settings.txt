@@ -1,4 +1,4 @@
-Template: SX_SettingsTemplate_Superstructure
+Template: SZ_SettingsTemplate_Superstructure
 Clouds: 0
 Grime: 0
 BkgDroneVolume: 0

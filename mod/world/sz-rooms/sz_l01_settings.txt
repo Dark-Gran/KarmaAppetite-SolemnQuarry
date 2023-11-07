@@ -1,4 +1,4 @@
-Template: SX_SettingsTemplate_Superstructure
+Template: SZ_SettingsTemplate_Superstructure
 DangerType: None
 BkgDroneVolume: 0
 Effects: ZeroG-1-20-20, SunBlock-1-280-21, ZeroGSpecks-0.2608696-801-22, SuperStructureProjector-1-537-24, SSMusic-0.2065217-1068-23, SSSwarmers-0.0326087-20-78, 
