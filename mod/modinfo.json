@@ -3,7 +3,7 @@
 	"name": "KA - Solemn Quarry",
 	"version": "1.0",
 	"authors": "DarkGran",
-	"description": "...",
+	"description": "Welcome to Solemn Quarry, a mini-region created for Karma Appetite.\nTo be used with KA_IteratorKit (otherwise no iterator).",
 	"tags": [ "Custom Region" ],
 	"checksum_override_version": false
 }
